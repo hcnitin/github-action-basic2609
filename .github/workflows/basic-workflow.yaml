@@ -18,4 +18,4 @@ jobs:
       - name: Failed Step"
         run: |
           echo "This step will fail"
-          exit 0
+          exit 1
